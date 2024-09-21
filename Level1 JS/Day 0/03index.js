@@ -144,6 +144,15 @@ true || false
 */
 
 console.log(!(5-3));
+while(true){
+    for(let i=1;i<=1000000;i++){
+        for(let j=1;j<=100000;j++){
+            console.log(i,j)
+        }
+    }
+
+}
+
 
 
 
